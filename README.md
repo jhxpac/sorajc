@@ -2,6 +2,8 @@
 
 在2024年初，OpenAI发布了一个名为Sora的革命性工具，能够根据文字描述生成高达60秒的高清视频。本文将详细介绍如何使用Sora，了解其工作原理，并帮助你快速上手这个强大的工具。
 
+![image](https://github.com/user-attachments/assets/852e85a5-06b2-4fc3-aeae-09421e33eda6)
+
 ## Sora是什么？
 
 Sora是一款可以基于文字描述生成视频的工具，其视频生成质量和分辨率远超目前市场上的其他工具。Sora使用了OpenAI的GPT和DALL-E模型，能够生成高质量的、几乎以假乱真的视频。
